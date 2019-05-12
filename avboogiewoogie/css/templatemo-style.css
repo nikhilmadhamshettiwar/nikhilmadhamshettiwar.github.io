@@ -321,8 +321,8 @@ header .social-icon li a {
 }
 
 #home .event-name h1,
-h2,
-h5 {
+#home .event-name h2,
+#home .event-name h5 {
 	font-family: 'Bangers', cursive;
 	letter-spacing: 3px;
 	color: #d6df2a;
@@ -785,7 +785,7 @@ h5 {
 	}
 
 	#home .quote {
-		font-size: 45px;
+		font-size: 43px;
 		margin-top: 10px;
 	}
 }
